@@ -1,5 +1,5 @@
 # Hello to [LuisMorrison.com](https://luismorrison.com)
-
+ 
 
 This project relies on the following open source technologies to work:
 
@@ -44,7 +44,7 @@ Once you have finished, publish you code to test in production by doing...
 $ gulp publish
 ```
 
-**Note** that when you clone this project, _can include or not_ a file named `aws.json` in the `/public` folder. This file is an Amazon S3 configuration settings that would be used for the `publish` command, and has the following format:
+**Note** that when you clone this project, _may or may not_ include a file named `aws.json` in the `/public` folder. This file is an Amazon S3 configuration settings that would be used for the `publish` command, and has the following format:
 
 ```json
 {
