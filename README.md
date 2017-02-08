@@ -1,6 +1,7 @@
 # Hello to [LuisMorrison.com](https://luismorrison.com)
 
-This project relies in the following open source technologies to work:
+
+This project relies on the following open source technologies to work:
 
 * [jQuery] - New Wave JavaScript Framework
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
