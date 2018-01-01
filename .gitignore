@@ -1,3 +1,5 @@
+deploy.php
+_vhosts/
 public/.tmp/
 public/coverage/
 public/dist/
