@@ -1,4 +1,3 @@
-deploy.php
 _vhosts/
 public/.tmp/
 public/coverage/
@@ -6,3 +5,4 @@ public/dist/
 public/node_modules/
 public/bower_components/
 public/aws.json
+deploy.php
